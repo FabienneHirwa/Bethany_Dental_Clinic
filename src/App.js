@@ -30,7 +30,13 @@ export default function App() {
 </nav>
 <section>
   <div class="">
-    
+    <img class="w-full h-[42.5rem] opacity-50" src="https://www.expatica.com/app/uploads/sites/12/2022/05/dentist-in-south-africa.jpg" alt="image description" />
+    <div class="bg-black w-96">
+      <h1 class="text-white">WELCOME</h1>
+      <h1 class="text-white">BETHANY DENTAL CLINIC</h1>
+      <button class="bg-sky-500 hover:bg-sky-700">Save changes</button>
+    </div>
+   
   </div>
 </section>
 </div>
